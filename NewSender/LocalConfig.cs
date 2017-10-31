@@ -8,5 +8,9 @@ namespace NewSender
 {
     class LocalConfig
     {
+        public LocalConfig(string fileName)
+        {
+
+        }
     }
 }
